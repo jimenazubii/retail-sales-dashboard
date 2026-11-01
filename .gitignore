@@ -1,0 +1,16 @@
+# Raw data (not redistributed, see README)
+raw/*
+!raw/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
